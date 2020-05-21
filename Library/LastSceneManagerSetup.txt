@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MobileGrass/Scene/GrassInteractive.unity
+  isLoaded: 1
+  isActive: 1
